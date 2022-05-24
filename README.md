@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dakshsemwal97
-- 👀 I’m interested in Movile Technology 
+- 👀 I’m interested in Mobile Technology 
 - 📫 How to reach me ...
 
 <!---
