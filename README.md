@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning **Kotlin Flow & Composable**
 
-- 💬 Ask me about **android, react,**
+- 💬 Ask me about **Android,**
 
 - 📫 How to reach me **daksh.semwal@kroger.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dakshsemwal/](https://www.linkedin.com/in/dakshsemwal/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RrkZyoIcd10GW_zqXHCzQCntyQbWJqui/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
