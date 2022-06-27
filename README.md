@@ -24,8 +24,8 @@
 <a href="https://stackoverflow.com/users/9342171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9342171" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAKSHSEMWAL&show_icons=true&locale=en&layout=compact" alt="daksh-semwal-kr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-semwal-kr&show_icons=true&locale=en" alt="daksh-semwal-kr" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=true&locale=en" alt="DAKSHSEMWAL" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAKSHSEMWAL&show_icons=false&locale=en&layout=compact" alt="daksh-semwal-kr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-semwal-kr&show_icons=false&locale=en" alt="daksh-semwal-kr" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=false&locale=en" alt="DAKSHSEMWAL" /></p>
 
 
