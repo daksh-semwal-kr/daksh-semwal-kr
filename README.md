@@ -22,7 +22,15 @@
 <a href="https://www.hackerrank.com/daksh_semwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="daksh_semwal" height="30" width="40" /></a>
 </p>
 
+<div style="display: grid;
+  gap: 50px;">
+  <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAKSHSEMWAL&show_icons=true&locale=en&layout=compact" alt="daksh-semwal-kr" /></p>
-
+<div>
+  <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-semwal-kr&show_icons=true&locale=en" alt="daksh-semwal-kr" /></p>
+  </div>
+  <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=true&locale=en" alt="DAKSHSEMWAL" /></p>
+</div>
+    </div>
