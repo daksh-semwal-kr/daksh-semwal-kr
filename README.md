@@ -28,6 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-semwal-kr&show_icons=true&theme=shades-of-purple" alt="daksh-semwal-kr" /></p>
 <h4> Personal Github</h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAKSHSEMWAL&show_icons=true" alt="daksh-semwal-kr" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=true&theme=vue" alt="DAKSHSEMWAL" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=true&theme=vue" alt="DAKSHSEMWAL" /></p>
 
 
