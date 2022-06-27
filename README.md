@@ -25,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAKSHSEMWAL&show_icons=true&locale=en&layout=compact" alt="daksh-semwal-kr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-semwal-kr&show_icons=true&locale=en" alt="daksh-semwal-kr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=true&locale=en" alt="DAKSHSEMWAL" /></p>
