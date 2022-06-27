@@ -23,10 +23,10 @@
 <a href="https://dribbble.com/daksh_semwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="daksh_semwal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9342171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9342171" height="30" width="40" /></a>
 </p>
-
+<h4> **Official Github** </h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daksh-semwal-kr&show_icons=true&count_private=true" alt="daksh-semwal-kr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daksh-semwal-kr&show_icons=true&theme=shades-of-purple&count_private=true" alt="daksh-semwal-kr" /></p>
-<h4> Personal Github</h4>
+<h4> **Personal Github** </h4>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAKSHSEMWAL&show_icons=true" alt="daksh-semwal-kr&count_private=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAKSHSEMWAL&show_icons=true&theme=vue" alt="DAKSHSEMWAL&count_private=true" /></p>
 
