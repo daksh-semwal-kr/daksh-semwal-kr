@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Semwal</h1>
-<h3 align="center">A passionate android developer from with a beginner level of knowledge in backend and front end technology India</h3>
+<h3 align="center">Hi there! I am an Android developer with expertise in Kotlin, Java, and Jetpack Compose. I have a strong understanding of architecture patterns such as MVI and MVVM, and am always eager to learn about new technologies and incorporate them into my work. In my free time, I enjoy tinkering with new Android frameworks and tools to enhance my skills and stay up-to-date with the latest industry trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh-semwal-kr&label=Profile%20views&color=0e75b6&style=flat" alt="daksh-semwal-kr" /> </p>
 
